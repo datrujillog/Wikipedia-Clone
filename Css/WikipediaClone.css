@@ -1,0 +1,156 @@
+                     * {
+                         box-sizing: border-box;
+                         margin: 0;
+                         padding: 0;
+                     }
+                     
+                     header {
+                         /* text-align: center; */
+                         margin-top: 50px;
+                         position: relative;
+                         left: 633px;
+                     }
+                     
+                     section img {
+                         width: 240px;
+                         height: 243px;
+                         position: relative;
+                         top: 90px;
+                         left: 659px;
+                     }
+                     
+                     .div-idiomas {
+                         list-style: none;
+                         /* height: 70px; */
+                     }
+                     
+                     .div-idiomas a {
+                         font-family: Arial, Helvetica, sans-serif;
+                         font-size: 1.6rem;
+                         margin: 15px;
+                         text-decoration: dashed;
+                         /* position: relative;
+     top: -200px; */
+                         /* left: 400px; */
+                         color: blue;
+                     }
+                     
+                     #español {
+                         position: relative;
+                         top: -233px;
+                         left: 555px;
+                     }
+                     
+                     #español1 {
+                         position: relative;
+                         top: -190px;
+                         left: 495px;
+                     }
+                     
+                     #koreano10 {
+                         position: relative;
+                         top: -140px;
+                         left: 489px;
+                     }
+                     
+                     #italiano3 {
+                         position: relative;
+                         top: -93px;
+                         left: 500px;
+                     }
+                     
+                     #portugues5 {
+                         position: relative;
+                         top: -40px;
+                         left: 560px;
+                     }
+                     
+                     .div-idiomas_nav {
+                         list-style: none;
+                         position: relative;
+                         left: 1200px;
+                     }
+                     
+                     .div-idiomas_nav a {
+                         font-family: Arial, Helvetica, sans-serif;
+                         font-size: 1.6rem;
+                         margin: 15px;
+                         text-decoration: dashed;
+                         color: blue;
+                     }
+                     
+                     #ingles {
+                         position: relative;
+                         top: -400px;
+                         right: 285px;
+                     }
+                     
+                     #aleman {
+                         position: relative;
+                         top: -347px;
+                         right: 222px;
+                     }
+                     
+                     #francia {
+                         position: relative;
+                         top: -300px;
+                         right: 210px;
+                     }
+                     
+                     #chino {
+                         position: relative;
+                         top: -254px;
+                         right: 217px;
+                     }
+                     
+                     #polaco {
+                         position: relative;
+                         top: -200px;
+                         right: 300px;
+                     }
+                     
+                     p {
+                         color: #99A3A4;
+                         font-size: 15px;
+                         margin-top: 5px;
+                     }
+                     
+                     .div-input {
+                         /* text-align: center; */
+                         width: 200px;
+                         height: 200px;
+                         margin-left: 500px;
+                         margin-right: auto;
+                         margin-top: -120px;
+                     }
+                     
+                     input {
+                         width: 500px;
+                         height: 53px;
+                     }
+                     
+                     #option {
+                         height: 30px;
+                         width: 60px;
+                         position: relative;
+                         top: -230px;
+                         left: 410px;
+                         border: none;
+                     }
+                     
+                     input[type=search] {
+                         border-radius: 5px;
+                         border: 2px solid blue;
+                         -webkit-appearance: none;
+                         position: relative;
+                         top: -229px;
+                         left: 500px;
+                     }
+                     
+                     .icono-lupa {
+                         height: 30px;
+                         width: 70px;
+                         position: relative;
+                         top: -284px;
+                         left: 997px;
+                     }
